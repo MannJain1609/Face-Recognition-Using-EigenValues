@@ -1,5 +1,4 @@
 opencv
 numpy
-tqdm
 Pillow
 matplotlib
